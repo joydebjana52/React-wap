@@ -1,0 +1,26 @@
+[
+	{
+		"label" : "Home",
+		"url" : "/"
+	},
+	{
+		"label" : "Blog",
+		"url" : "/blog"
+	},
+	{
+		"label" : "Software Engineering",
+		"url" : "software-engineering"
+	},
+	{
+		"label" : "Web development",
+		"url" : "/web-development"
+	},
+	{
+		"label" : "Robotics",
+		"url" : "/robotics"
+	},
+	{
+		"label" : "Contact Us",
+		"url" : "/contact-us"
+	}
+]
